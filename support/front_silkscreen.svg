@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1519"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="front_silkscreen.svg"
+   inkscape:export-filename="D:\00_projects\29_erika_synth_basic\01_pcb\00_vco\v1.1\erica_vco\support\front_silkscreen.png"
+   inkscape:export-xdpi="499.98001"
+   inkscape:export-ydpi="499.98001">
+  <defs
+     id="defs1513" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="273.99843"
+     inkscape:cy="269.81099"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1592"
+     inkscape:window-y="175"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1516">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="BOARD"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g3328"
+       transform="matrix(9.9999996e-7,0,0,9.9999996e-7,75.871423,15.818955)">
+      <g
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g2306" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g2308" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:150000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g2444-7">
+        <text
+           x="36308200"
+           y="48927000"
+           transform="matrix(-1,0,0,1,72616400,0)"
+           textLength="2809523"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text2310">RV6</text>
+        <g
+           class="stroked-text"
+           id="g2322">
+          <desc
+             id="desc2312">RV6</desc>
+          <path
+             d="m 35712962,48879380 -333333,-476190"
+             id="path2314" />
+          <path
+             d="m 35141534,48879380 v -1000000 h 380952 l 95238,47620 47619,47619 47619,95238 v 142857 l -47619,95238 -47619,47619 -95238,47619 h -380952"
+             id="path2316-5" />
+          <path
+             d="m 35998677,47879380 333333,1000000 333333,-1000000"
+             id="path2318-4" />
+          <path
+             d="m 37427248,47879380 h -190476 l -95238,47620 -47619,47619 -95238,142857 -47619,190476 v 380952 l 47619,95238 47619,47619 95238,47619 h 190476 l 95238,-47619 47619,-47619 47619,-95238 v -238095 l -47619,-95238 -47619,-47619 -95238,-47619 h -190476 l -95238,47619 -47619,47619 -47619,95238"
+             id="path2320-5" />
+        </g>
+        <text
+           x="10948200"
+           y="98532000"
+           transform="matrix(-1,0,0,1,21896400,0)"
+           textLength="1519286"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text2324">J3</text>
+        <g
+           class="stroked-text"
+           id="g2332">
+          <desc
+             id="desc2326">J3</desc>
+          <path
+             d="m 10614867,97484380 v 714286 l -47619,142857 -95238,95238 -142857,47619 h -95238"
+             id="path2328-2" />
+          <path
+             d="m 10995820,97484380 h 619047 l -333333,380953 h 142857 l 95238,47619 47619,47619 47619,95238 v 238095 l -47619,95238 -47619,47619 -95238,47619 h -285714 l -95238,-47619 -47619,-47619"
+             id="path2330-8" />
+        </g>
+        <text
+           x="46508200"
+           y="82338000"
+           transform="matrix(-1,0,0,1,93016400,0)"
+           textLength="1519286"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text2334">J7</text>
+        <g
+           class="stroked-text"
+           id="g2342">
+          <desc
+             id="desc2336">J7</desc>
+          <path
+             d="m 46174867,81290380 v 714286 l -47619,142857 -95238,95238 -142857,47619 h -95238"
+             id="path2338-7" />
+          <path
+             d="m 46555820,81290380 h 666666 l -428571,1000000"
+             id="path2340-6" />
+        </g>
+        <text
+           x="46508200"
+           y="98532000"
+           transform="matrix(-1,0,0,1,93016400,0)"
+           textLength="1519286"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text2344">J5</text>
+        <g
+           class="stroked-text"
+           id="g2352">
+          <desc
+             id="desc2346">J5</desc>
+          <path
+             d="m 46174867,97484380 v 714286 l -47619,142857 -95238,95238 -142857,47619 h -95238"
+             id="path2348-0" />
+          <path
+             d="m 47127248,97484380 h -476190 l -47619,476191 47619,-47619 95238,-47619 h 238095 l 95238,47619 47619,47619 47619,95238 v 238095 l -47619,95238 -47619,47619 -95238,47619 h -238095 l -95238,-47619 -47619,-47619"
+             id="path2350-8" />
+        </g>
+        <text
+           x="10948200"
+           y="115612000"
+           transform="matrix(-1,0,0,1,21896400,0)"
+           textLength="1519286"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text2354">J2</text>
+        <g
+           class="stroked-text"
+           id="g2362">
+          <desc
+             id="desc2356">J2</desc>
+          <path
+             d="m 10614867,114564380 v 714290 l -47619,142850 -95238,95240 -142857,47620 h -95238"
+             id="path2358-3" />
+          <path
+             d="m 11043439,114659620 47619,-47620 95238,-47620 h 238095 l 95238,47620 47619,47620 47619,95240 v 95240 l -47619,142850 -571428,571430 h 619047"
+             id="path2360-9" />
+        </g>
+        <text
+           x="8368200"
+           y="27337000"
+           transform="matrix(-1,0,0,1,16736400,0)"
+           textLength="2614524"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text2364">RV1</text>
+        <g
+           class="stroked-text"
+           id="g2378">
+          <desc
+             id="desc2366">RV1</desc>
+          <path
+             d="m 7772962,27289380 -333333,-476190"
+             id="path2368-6" />
+          <path
+             d="m 7201534,27289380 v -1000000 h 380952 l 95238,47620 47619,47619 47619,95238 v 142857 l -47619,95238 -47619,47619 -95238,47619 h -380952"
+             id="path2370-1" />
+          <path
+             d="m 8058677,26289380 333333,1000000 333333,-1000000"
+             id="path2372-6" />
+          <path
+             d="M 9582486,27289380 H 9011058"
+             id="path2374-2" />
+          <path
+             d="m 9296772,27289380 v -1000000 l -95238,142858 -95238,95238 -95238,47619"
+             id="path2376-1" />
+        </g>
+        <text
+           x="8368200"
+           y="48927000"
+           transform="matrix(-1,0,0,1,16736400,0)"
+           textLength="2614524"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text2380">RV2</text>
+        <g
+           class="stroked-text"
+           id="g2392">
+          <desc
+             id="desc2382">RV2</desc>
+          <path
+             d="m 7772962,48879380 -333333,-476190"
+             id="path2384-6" />
+          <path
+             d="m 7201534,48879380 v -1000000 h 380952 l 95238,47620 47619,47619 47619,95238 v 142857 l -47619,95238 -47619,47619 -95238,47619 h -380952"
+             id="path2386" />
+          <path
+             d="m 8058677,47879380 333333,1000000 333333,-1000000"
+             id="path2388-3" />
+          <path
+             d="m 9011058,47974619 47619,-47619 95238,-47620 h 238095 l 95238,47620 47619,47619 47619,95238 v 95238 l -47619,142857 -571428,571428 h 619047"
+             id="path2390-6" />
+        </g>
+        <text
+           x="8368200"
+           y="70517000"
+           transform="matrix(-1,0,0,1,16736400,0)"
+           textLength="2614524"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text2394">RV3</text>
+        <g
+           class="stroked-text"
+           id="g2406">
+          <desc
+             id="desc2396">RV3</desc>
+          <path
+             d="m 7772962,70469380 -333333,-476190"
+             id="path2398-1" />
+          <path
+             d="m 7201534,70469380 v -1000000 h 380952 l 95238,47620 47619,47619 47619,95238 v 142857 l -47619,95238 -47619,47619 -95238,47619 h -380952"
+             id="path2400-1" />
+          <path
+             d="m 8058677,69469380 333333,1000000 333333,-1000000"
+             id="path2402-6" />
+          <path
+             d="m 8963439,69469380 h 619047 l -333333,380953 h 142857 l 95238,47619 47619,47619 47619,95238 v 238095 l -47619,95238 -47619,47619 -95238,47619 h -285714 l -95238,-47619 -47619,-47619"
+             id="path2404-1" />
+        </g>
+        <text
+           x="46508200"
+           y="115612000"
+           transform="matrix(-1,0,0,1,93016400,0)"
+           textLength="1519286"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text2408">J6</text>
+        <g
+           class="stroked-text"
+           id="g2416">
+          <desc
+             id="desc2410">J6</desc>
+          <path
+             d="m 46174867,114564380 v 714290 l -47619,142850 -95238,95240 -142857,47620 h -95238"
+             id="path2412-2" />
+          <path
+             d="m 47079629,114564380 h -190476 l -95238,47620 -47619,47620 -95238,142860 -47619,190470 v 380950 l 47619,95240 47619,47620 95238,47620 h 190476 l 95238,-47620 47619,-47620 47619,-95240 v -238090 l -47619,-95240 -47619,-47620 -95238,-47620 h -190476 l -95238,47620 -47619,47620 -47619,95240"
+             id="path2414-2" />
+        </g>
+        <text
+           x="36308200"
+           y="27337000"
+           transform="matrix(-1,0,0,1,72616400,0)"
+           textLength="2614524"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text2418">RV5</text>
+        <g
+           class="stroked-text"
+           id="g2430-9">
+          <desc
+             id="desc2420">RV5</desc>
+          <path
+             d="m 35712962,27289380 -333333,-476190"
+             id="path2422" />
+          <path
+             d="m 35141534,27289380 v -1000000 h 380952 l 95238,47620 47619,47619 47619,95238 v 142857 l -47619,95238 -47619,47619 -95238,47619 h -380952"
+             id="path2424" />
+          <path
+             d="m 35998677,26289380 333333,1000000 333333,-1000000"
+             id="path2426" />
+          <path
+             d="m 37474867,26289380 h -476190 l -47619,476191 47619,-47619 95238,-47619 h 238095 l 95238,47619 47619,47619 47619,95238 v 238095 l -47619,95238 -47619,47619 -95238,47619 h -238095 l -95238,-47619 -47619,-47619"
+             id="path2428" />
+        </g>
+        <text
+           x="23648200"
+           y="115582000"
+           transform="matrix(-1,0,0,1,47296400,0)"
+           textLength="1519286"
+           font-size="1.33333e+06px"
+           lengthAdjust="spacingAndGlyphs"
+           text-anchor="middle"
+           opacity="0"
+           id="text2432">J4</text>
+        <g
+           class="stroked-text"
+           id="g2442-5">
+          <desc
+             id="desc2434">J4</desc>
+          <path
+             d="m 23314867,114534380 v 714290 l -47619,142850 -95238,95240 -142857,47620 h -95238"
+             id="path2436" />
+          <path
+             d="m 24219629,114867710 v 666670"
+             id="path2438" />
+          <path
+             d="m 23981534,114486760 -238095,714290 h 619047"
+             id="path2440" />
+        </g>
+      </g>
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:120000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g2802">
+        <path
+           d="m 41016200,58860000 h -830000"
+           id="path2446" />
+        <path
+           d="M 44226200,58860000 V 54140000"
+           id="path2448" />
+        <path
+           d="m 38566200,58860000 h -530000"
+           id="path2450" />
+        <path
+           d="M 34476200,58860000 V 54140000"
+           id="path2452" />
+        <path
+           d="M 44226200,58860000 H 42736200"
+           id="path2454" />
+        <path
+           d="M 34486200,50330000 V 47270000"
+           id="path2456" />
+        <path
+           d="M 44226200,47270000 H 34486200"
+           id="path2458" />
+        <path
+           d="M 35666200,58860000 H 34486200"
+           id="path2460" />
+        <path
+           d="M 44226200,50330000 V 47270000"
+           id="path2462" />
+        <path
+           d="M 3146200,99100000 V 88600000"
+           id="path2464" />
+        <path
+           d="M 12146200,99100000 V 88600000"
+           id="path2466" />
+        <path
+           d="M 3146200,99100000 H 7296200"
+           id="path2468" />
+        <path
+           d="m 7996200,99100000 h 4150000"
+           id="path2470" />
+        <path
+           d="M 8706200,102080000 H 7846200"
+           id="path2472" />
+        <path
+           d="m 8706200,102080000 v -800000"
+           id="path2474" />
+        <path
+           d="M 3146200,88600000 H 7146200"
+           id="path2476" />
+        <path
+           d="m 8146200,88600000 h 4000000"
+           id="path2478" />
+        <circle
+           cx="7646200"
+           cy="94600000"
+           r="1800000"
+           id="circle2480" />
+        <path
+           d="m 44266200,85570000 v -800000"
+           id="path2482" />
+        <path
+           d="m 44266200,85570000 h -860000"
+           id="path2484" />
+        <path
+           d="M 38706200,82590000 V 72090000"
+           id="path2486" />
+        <path
+           d="m 38706200,82590000 h 4150000"
+           id="path2488" />
+        <path
+           d="M 47706200,82590000 V 72090000"
+           id="path2490" />
+        <path
+           d="m 38706200,72090000 h 4000000"
+           id="path2492" />
+        <path
+           d="m 43556200,82590000 h 4150000"
+           id="path2494" />
+        <path
+           d="m 43706200,72090000 h 4000000"
+           id="path2496" />
+        <circle
+           cx="43206200"
+           cy="78090000"
+           r="1800000"
+           id="circle2498" />
+        <path
+           d="m 38706200,99100000 h 4150000"
+           id="path2500" />
+        <path
+           d="m 38706200,88600000 h 4000000"
+           id="path2502" />
+        <path
+           d="m 44266200,102080000 v -800000"
+           id="path2504" />
+        <path
+           d="M 38706200,99100000 V 88600000"
+           id="path2506" />
+        <path
+           d="m 44266200,102080000 h -860000"
+           id="path2508" />
+        <path
+           d="m 43706200,88600000 h 4000000"
+           id="path2510" />
+        <path
+           d="M 47706200,99100000 V 88600000"
+           id="path2512" />
+        <path
+           d="m 43556200,99100000 h 4150000"
+           id="path2514" />
+        <circle
+           cx="43206200"
+           cy="94600000"
+           r="1800000"
+           id="circle2516" />
+        <path
+           d="m 8146200,105680000 h 4000000"
+           id="path2518" />
+        <path
+           d="m 8706200,119160000 v -800000"
+           id="path2520" />
+        <path
+           d="M 3146200,105680000 H 7146200"
+           id="path2522" />
+        <path
+           d="M 3146200,116180000 H 7296200"
+           id="path2524" />
+        <path
+           d="M 8706200,119160000 H 7846200"
+           id="path2526" />
+        <path
+           d="M 12146200,116180000 V 105680000"
+           id="path2528" />
+        <path
+           d="m 7996200,116180000 h 4150000"
+           id="path2530" />
+        <path
+           d="M 3146200,116180000 V 105680000"
+           id="path2532" />
+        <circle
+           cx="7646200"
+           cy="111680000"
+           r="1800000"
+           id="circle2534" />
+        <path
+           d="M 16286200,37270000 V 32550000"
+           id="path2536" />
+        <path
+           d="M 6536200,37270000 V 32550000"
+           id="path2538" />
+        <path
+           d="M 7726200,37270000 H 6546200"
+           id="path2540" />
+        <path
+           d="M 16286200,37270000 H 14796200"
+           id="path2542" />
+        <path
+           d="M 16286200,28740000 V 25680000"
+           id="path2544" />
+        <path
+           d="m 13076200,37270000 h -830000"
+           id="path2546" />
+        <path
+           d="M 6546200,28740000 V 25680000"
+           id="path2548" />
+        <path
+           d="m 10626200,37270000 h -530000"
+           id="path2550" />
+        <path
+           d="M 16286200,25680000 H 6546200"
+           id="path2552" />
+        <path
+           d="M 16286200,47270000 H 6546200"
+           id="path2554" />
+        <path
+           d="M 16286200,50330000 V 47270000"
+           id="path2556" />
+        <path
+           d="M 6536200,58860000 V 54140000"
+           id="path2558" />
+        <path
+           d="m 10626200,58860000 h -530000"
+           id="path2560" />
+        <path
+           d="M 7726200,58860000 H 6546200"
+           id="path2562" />
+        <path
+           d="m 13076200,58860000 h -830000"
+           id="path2564" />
+        <path
+           d="M 16286200,58860000 V 54140000"
+           id="path2566" />
+        <path
+           d="M 16286200,58860000 H 14796200"
+           id="path2568" />
+        <path
+           d="M 6546200,50330000 V 47270000"
+           id="path2570" />
+        <path
+           d="M 16286200,71920000 V 68860000"
+           id="path2572" />
+        <path
+           d="M 7726200,80450000 H 6546200"
+           id="path2574" />
+        <path
+           d="M 6536200,80450000 V 75730000"
+           id="path2576" />
+        <path
+           d="M 16286200,80450000 V 75730000"
+           id="path2578" />
+        <path
+           d="M 16286200,68860000 H 6546200"
+           id="path2580" />
+        <path
+           d="m 10626200,80450000 h -530000"
+           id="path2582" />
+        <path
+           d="M 16286200,80450000 H 14796200"
+           id="path2584" />
+        <path
+           d="M 6546200,71920000 V 68860000"
+           id="path2586" />
+        <path
+           d="m 13076200,80450000 h -830000"
+           id="path2588" />
+        <path
+           d="M 38706200,116180000 V 105680000"
+           id="path2590" />
+        <path
+           d="m 38706200,116180000 h 4150000"
+           id="path2592-8" />
+        <path
+           d="m 44266200,119160000 v -800000"
+           id="path2594" />
+        <path
+           d="m 38706200,105680000 h 4000000"
+           id="path2596-0" />
+        <path
+           d="M 47706200,116180000 V 105680000"
+           id="path2598-2" />
+        <path
+           d="m 43706200,105680000 h 4000000"
+           id="path2600-6" />
+        <path
+           d="m 43556200,116180000 h 4150000"
+           id="path2602" />
+        <path
+           d="m 44266200,119160000 h -860000"
+           id="path2604" />
+        <circle
+           cx="43206200"
+           cy="111680000"
+           r="1800000"
+           id="circle2606" />
+        <path
+           d="M 34486200,28740000 V 25680000"
+           id="path2608" />
+        <path
+           d="M 44226200,28740000 V 25680000"
+           id="path2610" />
+        <path
+           d="M 34476200,37270000 V 32550000"
+           id="path2612" />
+        <path
+           d="M 35666200,37270000 H 34486200"
+           id="path2614" />
+        <path
+           d="M 44226200,37270000 V 32550000"
+           id="path2616" />
+        <path
+           d="m 38566200,37270000 h -530000"
+           id="path2618" />
+        <path
+           d="M 44226200,37270000 H 42736200"
+           id="path2620" />
+        <path
+           d="m 41016200,37270000 h -830000"
+           id="path2622" />
+        <path
+           d="M 44226200,25680000 H 34486200"
+           id="path2624" />
+        <path
+           d="M 24846200,116150000 V 105650000"
+           id="path2626" />
+        <path
+           d="m 20846200,105650000 h 4000000"
+           id="path2628" />
+        <path
+           d="m 20696200,116150000 h 4150000"
+           id="path2630" />
+        <path
+           d="m 15846200,116150000 h 4150000"
+           id="path2632" />
+        <path
+           d="m 21406200,119130000 v -800000"
+           id="path2634" />
+        <path
+           d="m 21406200,119130000 h -860000"
+           id="path2636" />
+        <path
+           d="m 15846200,105650000 h 4000000"
+           id="path2638" />
+        <path
+           d="M 15846200,116150000 V 105650000"
+           id="path2640" />
+        <circle
+           cx="20346200"
+           cy="111650000"
+           r="1800000"
+           id="circle2642" />
+        <g
+           id="g2644-6" />
+        <g
+           id="g2646-6" />
+        <g
+           id="g2648-2" />
+        <g
+           id="g2650-8" />
+        <g
+           id="g2652-5" />
+        <g
+           id="g2654-0" />
+        <g
+           id="g2656-8" />
+        <g
+           id="g2658-9" />
+        <g
+           id="g2660-4" />
+        <g
+           id="g2662-2" />
+        <g
+           id="g2664-7" />
+        <g
+           id="g2666-3" />
+        <g
+           id="g2668-1" />
+        <g
+           id="g2670-8" />
+        <g
+           id="g2672-1" />
+        <g
+           id="g2674-1" />
+        <g
+           id="g2676-4" />
+        <g
+           id="g2678-9" />
+        <g
+           id="g2680-5" />
+        <g
+           id="g2682-5" />
+        <g
+           id="g2684-6" />
+        <g
+           id="g2686-0" />
+        <g
+           id="g2688-1" />
+        <g
+           id="g2690-9" />
+        <g
+           id="g2692-4" />
+        <g
+           id="g2694-2" />
+        <g
+           id="g2696-0" />
+        <g
+           id="g2698-0" />
+        <g
+           id="g2700-0" />
+        <g
+           id="g2702-6" />
+        <g
+           id="g2704-6" />
+        <g
+           id="g2706-1" />
+        <g
+           id="g2708-2" />
+        <g
+           id="g2710-0" />
+        <g
+           id="g2712-2" />
+        <g
+           id="g2714-6" />
+        <g
+           id="g2716-8" />
+        <g
+           id="g2718-7" />
+        <g
+           id="g2720-4" />
+        <g
+           id="g2722-8" />
+        <g
+           id="g2724-5" />
+        <g
+           id="g2726-4" />
+        <g
+           id="g2728-2" />
+        <g
+           id="g2730-0" />
+        <g
+           id="g2732-7" />
+        <g
+           id="g2734-9" />
+        <g
+           id="g2736-9" />
+        <g
+           id="g2738-9" />
+        <g
+           id="g2740-6" />
+        <g
+           id="g2742-7" />
+        <g
+           id="g2744-7" />
+        <g
+           id="g2746-5" />
+        <g
+           id="g2748-2" />
+        <g
+           id="g2750-6" />
+        <g
+           id="g2752-1" />
+        <g
+           id="g2754-1" />
+        <g
+           id="g2756-7" />
+        <g
+           id="g2758-9" />
+        <g
+           id="g2760-3" />
+        <g
+           id="g2762" />
+        <g
+           id="g2764" />
+        <g
+           id="g2766" />
+        <g
+           id="g2768" />
+        <g
+           id="g2770" />
+        <g
+           id="g2772" />
+        <g
+           id="g2774" />
+        <g
+           id="g2776" />
+        <g
+           id="g2778" />
+        <g
+           id="g2780" />
+        <g
+           id="g2782" />
+        <g
+           id="g2784" />
+        <g
+           id="g2786" />
+        <g
+           id="g2788" />
+        <g
+           id="g2790" />
+        <g
+           id="g2792" />
+        <g
+           id="g2794" />
+        <g
+           id="g2796" />
+        <g
+           id="g2798" />
+        <g
+           id="g2800" />
+      </g>
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:120000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g2804" />
+      <g
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         id="g2980">
+        <circle
+           cx="7519200"
+           cy="125526000"
+           r="1600200"
+           id="circle2806" />
+        <circle
+           cx="43333200"
+           cy="3098000"
+           r="1600200"
+           id="circle2808" />
+        <circle
+           cx="43333200"
+           cy="125526000"
+           r="1600200"
+           id="circle2810" />
+        <path
+           d="M 26200,50000 H 50826200"
+           id="path2812" />
+        <circle
+           cx="7519200"
+           cy="3098000"
+           r="1600200"
+           id="circle2814" />
+        <path
+           d="M 50826200,50000 V 128574000"
+           id="path2816" />
+        <path
+           d="M 26200,128574000 H 50826200"
+           id="path2818" />
+        <path
+           d="M 26200,128574000 V 50000"
+           id="path2820" />
+        <g
+           id="g2822" />
+        <g
+           id="g2824" />
+        <g
+           id="g2826" />
+        <g
+           id="g2828" />
+        <g
+           id="g2830" />
+        <g
+           id="g2832" />
+        <g
+           id="g2834" />
+        <g
+           id="g2836" />
+        <g
+           id="g2838" />
+        <g
+           id="g2840" />
+        <g
+           id="g2842" />
+        <g
+           id="g2844" />
+        <g
+           id="g2846" />
+        <g
+           id="g2848" />
+        <g
+           id="g2850" />
+        <g
+           id="g2852" />
+        <g
+           id="g2854" />
+        <g
+           id="g2856" />
+        <g
+           id="g2858" />
+        <g
+           id="g2860" />
+        <g
+           id="g2862" />
+        <g
+           id="g2864" />
+        <g
+           id="g2866" />
+        <g
+           id="g2868" />
+        <g
+           id="g2870" />
+        <g
+           id="g2872" />
+        <g
+           id="g2874" />
+        <g
+           id="g2876" />
+        <g
+           id="g2878" />
+        <g
+           id="g2880" />
+        <g
+           id="g2882" />
+        <g
+           id="g2884" />
+        <g
+           id="g2886" />
+        <g
+           id="g2888" />
+        <g
+           id="g2890" />
+        <g
+           id="g2892" />
+        <g
+           id="g2894" />
+        <g
+           id="g2896" />
+        <g
+           id="g2898" />
+        <g
+           id="g2900" />
+        <g
+           id="g2902" />
+        <g
+           id="g2904" />
+        <g
+           id="g2906" />
+        <g
+           id="g2908" />
+        <g
+           id="g2910" />
+        <g
+           id="g2912" />
+        <g
+           id="g2914" />
+        <g
+           id="g2916" />
+        <g
+           id="g2918" />
+        <g
+           id="g2920" />
+        <g
+           id="g2922" />
+        <g
+           id="g2924" />
+        <g
+           id="g2926" />
+        <g
+           id="g2928" />
+        <g
+           id="g2930" />
+        <g
+           id="g2932" />
+        <g
+           id="g2934" />
+        <g
+           id="g2936" />
+        <g
+           id="g2938" />
+        <g
+           id="g2940" />
+        <g
+           id="g2942" />
+        <g
+           id="g2944" />
+        <g
+           id="g2946" />
+        <g
+           id="g2948" />
+        <g
+           id="g2950" />
+        <g
+           id="g2952" />
+        <g
+           id="g2954" />
+        <g
+           id="g2956" />
+        <g
+           id="g2958" />
+        <g
+           id="g2960" />
+        <g
+           id="g2962" />
+        <g
+           id="g2964" />
+        <g
+           id="g2966" />
+        <g
+           id="g2968" />
+        <g
+           id="g2970" />
+        <g
+           id="g2972" />
+        <g
+           id="g2974" />
+        <g
+           id="g2976" />
+        <g
+           id="g2978" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="SILKSCREEN">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="92.515572"
+       y="30.741022"
+       id="text4485"><tspan
+         sodipodi:role="line"
+         id="tspan4483"
+         x="92.515572"
+         y="30.741022"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';stroke-width:0.264583">VCO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="92.58783"
+       y="140.91356"
+       id="text4485-6"><tspan
+         sodipodi:role="line"
+         id="tspan4483-7"
+         x="92.58783"
+         y="140.91356"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';stroke-width:0.264583">RAW SERIES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583;"
+       x="87.364792"
+       y="39.255211"
+       id="text4513"><tspan
+         sodipodi:role="line"
+         id="tspan4511"
+         x="87.364792"
+         y="39.255211"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;text-anchor:middle;stroke-width:0.264583;font-size:3.175px;">coarse</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583;"
+       x="115.23952"
+       y="36.226482"
+       id="text4517"><tspan
+         sodipodi:role="line"
+         id="tspan4515"
+         x="115.23952"
+         y="36.226482"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;text-anchor:middle;stroke-width:0.264583;font-size:3.175px;">pulse</tspan><tspan
+         sodipodi:role="line"
+         x="115.23952"
+         y="40.195232"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;text-anchor:middle;stroke-width:0.264583;font-size:3.175px;"
+         id="tspan4523">width</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="87.191132"
+       y="81.93293"
+       id="text4521"><tspan
+         sodipodi:role="line"
+         id="tspan4519"
+         x="87.191132"
+         y="81.93293"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;text-anchor:middle;stroke-width:0.264583">fm lvl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="87.065224"
+       y="60.779495"
+       id="text4527"><tspan
+         sodipodi:role="line"
+         id="tspan4525"
+         x="87.065224"
+         y="60.779495"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;text-anchor:middle;stroke-width:0.264583">fine</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="115.30388"
+       y="57.280678"
+       id="text4543"><tspan
+         sodipodi:role="line"
+         id="tspan4541"
+         x="115.30388"
+         y="57.280678"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;text-anchor:middle;stroke-width:0.264583">pwm</tspan><tspan
+         sodipodi:role="line"
+         x="115.30388"
+         y="61.249428"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan4545">cv lvl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583;"
+       x="83.6586"
+       y="102.88051"
+       id="text4521-4"
+       inkscape:transform-center-x="-2.6458333"
+       inkscape:transform-center-y="0.1889881"><tspan
+         sodipodi:role="line"
+         id="tspan4519-3"
+         x="83.6586"
+         y="102.88051"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;text-anchor:middle;stroke-width:0.264583;font-size:3.175px;">fm cv</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="83.611359"
+       y="120.73988"
+       id="text4521-8"><tspan
+         sodipodi:role="line"
+         id="tspan4519-0"
+         x="83.611359"
+         y="120.73988"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;text-anchor:middle;stroke-width:0.264583">1v/oct</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="96.36805"
+       y="120.40916"
+       id="text4521-0"><tspan
+         sodipodi:role="line"
+         x="96.36805"
+         y="120.40916"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1270">pwm cv</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="119.09387"
+       y="120.59814"
+       id="text4521-81"><tspan
+         sodipodi:role="line"
+         id="tspan4519-6"
+         x="119.09387"
+         y="120.59814"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;text-anchor:middle;stroke-width:0.264583">pulse</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="119.14112"
+       y="103.80182"
+       id="text4521-7"><tspan
+         sodipodi:role="line"
+         id="tspan4519-4"
+         x="119.14112"
+         y="103.80182"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;text-anchor:middle;stroke-width:0.264583">saw</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="119.04663"
+       y="87.218117"
+       id="text4521-84"><tspan
+         sodipodi:role="line"
+         id="tspan4519-9"
+         x="119.04663"
+         y="87.218117"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Miriam Libre';-inkscape-font-specification:'Miriam Libre';text-align:center;text-anchor:middle;stroke-width:0.264583">tri</tspan></text>
+  </g>
+</svg>
