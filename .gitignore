@@ -15,6 +15,9 @@ _autosave-*
 fp-info-cache
 *.kicad_prl
 
+# Gerber out
+gerber/*
+
 # Temporary folders
 raw_vco-backups/*
 
